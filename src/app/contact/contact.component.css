@@ -1,0 +1,104 @@
+/* .imageoffice {
+    width: 298px;
+    margin-bottom: 40px; */
+
+.row2 {
+    background-color: #DB5D7B;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+/* 
+.office {
+    display: flex;
+    position: relative;
+    border-radius: 20px;
+    opacity: 1;
+    top: 100px;
+    left: 140px;
+    width: 1640px;
+    height: 508px;
+    background: var(--unnamed-color-db5d7b) 0% 0% no-repeat padding-box;
+    background: #DB5D7B 0% 0% no-repeat padding-box;
+    box-shadow: 0px -10px 30px #00000029;
+
+}
+
+.textoffice {
+    /* background-color: #DB5D7B; */
+    /* top: 199px; */
+    /* left: 140px;
+width: 1640px;
+height: 508px;
+border-radius: 20px;
+opacity: 1; */
+    /* background: #DB5D7B 0% 0% no-repeat padding-box;
+    width: 300px;
+    height: 200px;
+} */
+
+ 
+/* .imageoffice {
+    top: 239px;
+    left: 881px;
+    width: 0px;
+    height: 166px;
+    /* background: transparent url('img/closeup-image-office-phone.png') 0% 0% no-repeat padding-box; */
+    /* border-radius: 20px;
+    opacity: 1;
+} */ 
+
+.row3 {
+    margin-top: 300px;
+    display: flex;
+    top: 999px;
+    left: 305px;
+    width: 1310px;
+    height: 479px;
+    flex-direction: row;
+}
+
+.col1 {
+    top: 999px;
+    left: 849px;
+    width: 766px;
+    height: 88px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-707070);
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 5px;
+    opacity: 1;
+    flex-direction: column;
+}
+
+.formgroups {
+    justify-content: row;
+}
+
+.office1{
+    display: flex;
+    background-color:  #DB5D7B;
+    height: 258px;
+    margin-top: 30px
+}
+.textoffice1{
+color: #FFFFFF;
+width: 40%;
+margin-left: 26px;
+}
+.textoffice1 p{
+    color: #FFFFFF;
+    margin-left: 55px;
+}
+
+.imageoffice{
+    height: 442px;
+    border-radius: 20px;
+    margin-left: 74px;
+
+    /* width: 50%; */
+    /* background-image: url("/assets/images/office-phone.png"); */
+    /* background: transparent url('/assets/images/office-phone.png') 0% 0% no-repeat padding-box; */
+}

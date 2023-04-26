@@ -1,0 +1,60 @@
+
+/* /* You can add global styles to this file,
+/* and also import other style files {
+    /* /
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    /* background: #a8a8a8; */
+    
+    
+    .container 
+    /* position: relative; */
+    /* width:1100px; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin-top: 8%; */
+/* }
+
+.container .card {
+    width: 300px;
+    position: relative;
+    height: 400px;
+    background: #f0f0f0;
+    margin: 30px 10px;
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0.5px 10px #e6e6e6;
+    transition: 0.3s ease-in-out;
+    margin-top: 5%; */ */
+
+/* 
+} */ 
+/* /* */
+
+
+
+h1{
+    color: pink;
+}
+p{
+    color: black;
+}
+
+
+background{
+     color:white;
+}
+
+.footer {
+    background-color: pink;
+}
+/* body{
+    font-family:'Pacifio',cursive;
+} */
